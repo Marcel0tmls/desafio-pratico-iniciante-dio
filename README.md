@@ -1,3 +1,1 @@
-# desafio-pratico-iniciante-dio
-Desafio prático iniciante DIO sobre Git/Github.
-#Repositório para aula básica de Git/Github.
+# Repositório criado para o Desafio de Projeto DIO
